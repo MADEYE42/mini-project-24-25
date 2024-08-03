@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1887" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3145" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -74,13 +74,13 @@
         <mxCell id="HioqSzKNUCu9lMBX9jTe-31" value="Email and password valid" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="179" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HioqSzKNUCu9lMBX9jTe-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-39" target="HioqSzKNUCu9lMBX9jTe-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HioqSzKNUCu9lMBX9jTe-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-39" target="HioqSzKNUCu9lMBX9jTe-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HioqSzKNUCu9lMBX9jTe-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-39" target="HioqSzKNUCu9lMBX9jTe-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eOO_hAccVT-MUwnl_WkP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-39" target="HioqSzKNUCu9lMBX9jTe-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HioqSzKNUCu9lMBX9jTe-39" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -119,11 +119,11 @@
         <mxCell id="HioqSzKNUCu9lMBX9jTe-46" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="139" y="480" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HioqSzKNUCu9lMBX9jTe-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-53" target="HioqSzKNUCu9lMBX9jTe-65" edge="1">
+        <mxCell id="eOO_hAccVT-MUwnl_WkP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-53" target="eOO_hAccVT-MUwnl_WkP-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HioqSzKNUCu9lMBX9jTe-53" value="User Dashboard" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HioqSzKNUCu9lMBX9jTe-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-55" target="HioqSzKNUCu9lMBX9jTe-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -150,13 +150,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HioqSzKNUCu9lMBX9jTe-65" value="Can give input about activities nearby" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HioqSzKNUCu9lMBX9jTe-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-67" target="HioqSzKNUCu9lMBX9jTe-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HioqSzKNUCu9lMBX9jTe-67" value="If needed an emergency then can notify the organization" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HioqSzKNUCu9lMBX9jTe-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-69" target="HioqSzKNUCu9lMBX9jTe-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -164,8 +164,26 @@
         <mxCell id="HioqSzKNUCu9lMBX9jTe-69" value="will get the notification of the user" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="219" y="745" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eOO_hAccVT-MUwnl_WkP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-71" target="eOO_hAccVT-MUwnl_WkP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HioqSzKNUCu9lMBX9jTe-71" value="can increase the manpower at place where the accidents are predicted&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="219" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOO_hAccVT-MUwnl_WkP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eOO_hAccVT-MUwnl_WkP-4" target="HioqSzKNUCu9lMBX9jTe-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eOO_hAccVT-MUwnl_WkP-4" value="Video Education" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOO_hAccVT-MUwnl_WkP-7" value="Using weather API will give realtime notification" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eOO_hAccVT-MUwnl_WkP-8" value="Will also get msg throught satellite imagery" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="69" y="970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eOO_hAccVT-MUwnl_WkP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.887;entryY=0.252;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HioqSzKNUCu9lMBX9jTe-71" target="eOO_hAccVT-MUwnl_WkP-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
